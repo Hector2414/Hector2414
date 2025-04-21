@@ -9,5 +9,5 @@
 ##
 
 <div>
-  <a href="www.linkedin.com/in/hector-lima-25b866361"> <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"> </a>
+  <a href="https://www.linkedin.com/in/hector-santana-lima"> <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"> </a>
 </div>
