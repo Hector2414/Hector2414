@@ -1,16 +1,13 @@
-## Hi there 👋
+## Olá meu nome é Hector de Santana Lima
 
-<!--
-**Hector2414/Hector2414** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<div>
+<a href="https://github.com/Hector2414">
+ <!-- <img height="180" src="https://github-readme-stats.vercel.app/api?username=Hector2414&show_icons=true"/>-->
+  <img height="180" src="https://github-readme-stats.vercel.app/api?username=Hector2414&show_icons=true&theme=dark&inculde_all_commits=true&count_private=true"/> </a>
+</div>
 
-Here are some ideas to get you started:
+##
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<div>
+  <a href="www.linkedin.com/in/hector-lima-25b866361"> <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"> </a>
+</div>
